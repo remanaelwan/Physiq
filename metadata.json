@@ -1,0 +1,6 @@
+{
+  "name": "PhysIQ",
+  "description": "PhysIQ - AI-powered Body Intelligence Platform featuring 360° Interactive Muscle Recovery, Nutrition Intelligence, AI Coach & Recovery Simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
